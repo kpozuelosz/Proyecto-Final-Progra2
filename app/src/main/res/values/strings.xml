@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Control de Gastos</string>
+    <string name="formato_quetzales">Q %,.2f</string>
+    <string name="titulo_escritorio">Escritorio</string>
+    <string name="titulo_balance">Balance</string>
+    <string name="titulo_gastos_mes">Gastos (Este mes vs mes pasado)</string>
+    <string name="titulo_ingresos_mes">Ingresos (Este mes vs mes pasado)</string>
+    <string name="categoria_alimentacion">Alimentación</string>
+    <string name="categoria_diversion">Diversión</string>
+    <string name="categoria_transporte">Transporte</string>
+</resources>
