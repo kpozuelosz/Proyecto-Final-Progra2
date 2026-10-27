@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- La categoría N usa el color (N mod 6). Así cada categoría siempre tiene el mismo color. -->
+    <array name="avatar_fondos">
+        <item>@color/avatar_1_bg</item>
+        <item>@color/avatar_2_bg</item>
+        <item>@color/avatar_3_bg</item>
+        <item>@color/avatar_4_bg</item>
+        <item>@color/avatar_5_bg</item>
+        <item>@color/avatar_6_bg</item>
+    </array>
+    <array name="avatar_letras">
+        <item>@color/avatar_1_fg</item>
+        <item>@color/avatar_2_fg</item>
+        <item>@color/avatar_3_fg</item>
+        <item>@color/avatar_4_fg</item>
+        <item>@color/avatar_5_fg</item>
+        <item>@color/avatar_6_fg</item>
+    </array>
+</resources>

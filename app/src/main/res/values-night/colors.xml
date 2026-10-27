@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#5ACBA8</color>
+    <color name="on_primary">#00382A</color>
+    <color name="primary_container">#144D3E</color>
+    <color name="on_primary_container">#BDEBDC</color>
+
+    <color name="gold">#EDB94A</color>
+    <color name="on_gold">#2B1F00</color>
+
+    <color name="error">#F2A09B</color>
+    <color name="on_error">#5C1511</color>
+
+    <color name="background">#0E1512</color>
+    <color name="surface">#17211D</color>
+    <color name="surface_variant">#25332D</color>
+    <color name="ink">#E3EDE8</color>
+    <color name="ink_muted">#94A8A0</color>
+    <color name="outline">#2F4039</color>
+
+    <color name="header_bg">#0A3A2F</color>
+    <color name="on_header">#FFFFFF</color>
+    <color name="on_header_muted">#8FBFAF</color>
+
+    <color name="avatar_1_bg">#1B4A3D</color>
+    <color name="avatar_1_fg">#BDEBDC</color>
+    <color name="avatar_2_bg">#4A3A12</color>
+    <color name="avatar_2_fg">#F2D58E</color>
+    <color name="avatar_3_bg">#55231F</color>
+    <color name="avatar_3_fg">#F6C3BE</color>
+    <color name="avatar_4_bg">#1F3550</color>
+    <color name="avatar_4_fg">#BFD7F2</color>
+    <color name="avatar_5_bg">#3A2A52</color>
+    <color name="avatar_5_fg">#DCCBF0</color>
+    <color name="avatar_6_bg">#2A3832</color>
+    <color name="avatar_6_fg">#C7D6CF</color>
+</resources>

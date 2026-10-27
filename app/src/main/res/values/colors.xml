@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Paleta "Quetzal": jade profundo (el verde del ave nacional) con un acento dorado de maíz.
+    Cada nombre existe también en values-night/colors.xml, así el modo oscuro es automático.
+-->
+<resources>
+    <color name="primary">#0E6B55</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#CFEBE1</color>
+    <color name="on_primary_container">#062F25</color>
+
+    <color name="gold">#E9B23A</color>
+    <color name="on_gold">#2B1F00</color>
+
+    <color name="error">#B8342E</color>
+    <color name="on_error">#FFFFFF</color>
+
+    <color name="background">#F1F5F3</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#E3ECE8</color>
+    <color name="ink">#14201C</color>
+    <color name="ink_muted">#5A6B64</color>
+    <color name="outline">#CAD6D1</color>
+
+    <!-- Encabezado de las dos pantallas -->
+    <color name="header_bg">#0B4D3D</color>
+    <color name="on_header">#FFFFFF</color>
+    <color name="on_header_muted">#A9D3C6</color>
+
+    <!-- Avatares de categoría: fondo (bg) y letra (fg) -->
+    <color name="avatar_1_bg">#CFEBE1</color>
+    <color name="avatar_1_fg">#0B4D3D</color>
+    <color name="avatar_2_bg">#F8E6B8</color>
+    <color name="avatar_2_fg">#5A3F00</color>
+    <color name="avatar_3_bg">#F6D3CF</color>
+    <color name="avatar_3_fg">#7A211C</color>
+    <color name="avatar_4_bg">#D3E3F4</color>
+    <color name="avatar_4_fg">#1B3F66</color>
+    <color name="avatar_5_bg">#E3D8F0</color>
+    <color name="avatar_5_fg">#43275F</color>
+    <color name="avatar_6_bg">#DDE5E1</color>
+    <color name="avatar_6_fg">#34443E</color>
+</resources>
